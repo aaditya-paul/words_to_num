@@ -57,10 +57,10 @@ It processes the input word by word to compute the numeric value and formats the
 
 | Input                                                            | Output        |
 | ---------------------------------------------------------------- | ------------- |
-| `one hundred twenty-three`                                       | `123`         |
-| `twelve thousand three hundred forty-five`                       | `12,345`      |
-| `one lakh twenty-three thousand four hundred fifty-six`          | `1,23,456`    |
-| `two crore fifty lakh seventy-six thousand eight hundred ninety` | `2,50,76,890` |
+| `one hundred twenty three`                                       | `123`         |
+| `twelve thousand three hundred forty five`                       | `12,345`      |
+| `one lakh twenty three thousand four hundred fifty six`          | `1,23,456`    |
+| `two crore fifty lakh seventy six thousand eight hundred ninety` | `2,50,76,890` |
 
 ## Notes
 
