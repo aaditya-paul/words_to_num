@@ -1,6 +1,6 @@
 # Number Words to Numeric Converter
 
-This Python script converts numbers written in words (e.g., "one hundred twenty-three") into their numeric equivalent and formats the result using the Indian Numbering System (e.g., `1,23,45,678`).
+This Python script converts numbers written in words (e.g., "one hundred twenty three") into their numeric equivalent and formats the result using the Indian Numbering System (e.g., `1,23,45,678`).
 
 ## Features
 
@@ -25,7 +25,7 @@ This Python script converts numbers written in words (e.g., "one hundred twenty-
 ## Usage
 
 1. Run the script.
-2. Input a number in words (e.g., `"one hundred twenty-three"`).
+2. Input a number in words (e.g., `"one hundred twenty three"`).
 3. View the output in numeric format with Indian-style formatting.
 
 ### Example Usage
@@ -33,7 +33,7 @@ This Python script converts numbers written in words (e.g., "one hundred twenty-
 Input:
 
 ```plaintext
-Enter a number in words: one lakh twenty-three thousand four hundred fifty-six
+Enter a number in words: one lakh twenty three thousand four hundred fifty six
 ```
 
 Output:
