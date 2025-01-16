@@ -63,9 +63,12 @@ def get_num_from_string(str):
                 current = 0
         elif word == "and":
             pass
+        elif word == "-":
+            pass
         else:
-            print("Invalid number")
-            return
+            pass
+            # print("Invalid number")
+            # return
     result+= current
     return result 
 
